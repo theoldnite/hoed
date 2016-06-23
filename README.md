@@ -1,8 +1,7 @@
 Ik gebruik graag emacs
 kan ietwat
 python3
--------
-interesse:
+interesse in:
 -------
 C
 Lisp
