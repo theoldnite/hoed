@@ -1,6 +1,7 @@
 Ik gebruik graag emacs
-kan ietwat
-python3
+en kan ietwat python3
+
+
 interesse in:
 -------
 C, 
