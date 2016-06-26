@@ -6,5 +6,5 @@ interesse in:
 -------
 C, 
 Lisp, 
-misschien haskell. 
+haskell. 
 
